@@ -8,6 +8,8 @@ This is a grunt template that has serveral code monitoring tools.
 - git clone https://github.com/Drockio/dTemplate.git 
 - Navigate to your project directory
 - grunt-init dTemplate
+- grunt watch
+- Happy Coding!
 
 ## Configuration
 - Adjust Gruntfile.js to include the appropriate file paths
